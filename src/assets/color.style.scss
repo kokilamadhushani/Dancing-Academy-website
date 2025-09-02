@@ -1,0 +1,22 @@
+$basic-color: #2c296d;
+$basic-color-active: #04040c;
+$basic-color-2: #73777B;
+$basic-color-2-active: #66686b;
+$basic-color-3: #F1EEE9;
+$basic-color-3-active: #bab8b6;
+$basic-color-4: #c9bfb5;
+$basic-color-4-active: #572e07;
+$basic-color-5: #ce2d9085;
+
+$transparent-white: rgba(255, 255, 255, 0.2);
+$transparent-black: rgba(73, 50, 50, 0.316);
+
+$background-color-fixed-black: linear-gradient(to left, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.35));
+$background-color-fixed-black-2: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8));
+$background-color-fixed-white: linear-gradient(to left, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.25));
+$background-color: linear-gradient(62deg, $basic-color-4 0%, $basic-color-5 100%);
+$background-color-white: linear-gradient(62deg, $basic-color-3 0%, $basic-color-3-active 100%);
+$background-color-black: linear-gradient(62deg, #222 30%, $basic-color-active 80%);
+
+$error-color: #8b3131;
+$error-color-active: #a33a3a;
